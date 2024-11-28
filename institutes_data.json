@@ -30,6 +30,7 @@
         "image2": "https://www5.iqsc.usp.br/files/2020/12/IMG_4312-scaled.jpg",
         "acronym": "IQSC",
         "name":"Instituto de Química de São Carlos da Universidade de São Paulo",
+        "location": "São Carlos",
         "courses":[
             "Bacharelado em Química",
             "Licenciatura em Ciências Exatas"
@@ -55,6 +56,7 @@
         "image2": "https://www.iau.usp.br/acervoprojetomemoria/wp-content/uploads/tainacan-items/9551/16552/MG_4620-scaled.jpg",
         "acronym": "IAU",
         "name":"Instituto de Arquitetura e Urbanismo da Universidade de São Paulo",
+        "location": "São Carlos",
         "courses":[
             "Bacharelado em Arquitetura e Urbanismo"
         ],
