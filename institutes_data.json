@@ -121,5 +121,34 @@
         "mission": "A missão do Instituto de Arquitetura e Urbanismo (IAU) da USP é formar professores, pesquisadores e profissionais altamente capacitados, promovendo a integração entre ensino, pesquisa, extensão universitária e prática profissional. Inserido em duas áreas de concentração – Teoria e História da Arquitetura e do Urbanismo, e Arquitetura, Urbanismo e Tecnologia – o IAU busca fomentar a produção de conhecimento crítico e inovador. O instituto visa capacitar seus discentes para desenvolver soluções tecnológicas, projetuais e artísticas que atendam aos desafios contemporâneos, contribuindo para a construção de ambientes urbanos mais sustentáveis e para o avanço do pensamento crítico na área.​"
       }
     ]
-  }
+    },
+     {
+        "id": 5,
+        "logo": "https://www2.ifsc.usp.br/portal-ifsc/wp-content/uploads/2017/03/logotipo_ifsc_750x170.jpg",
+        "video": "https://youtu.be/bYHhacfJzeQ?si=cS0v_BqK0dZXhkY4",
+        "image1": "https://www2.ifsc.usp.br/portal-ifsc/wp-content/uploads/2021/08/adm-11.jpg",
+        "image2": "https://www2.ifsc.usp.br/portal-ifsc/wp-content/uploads/2021/08/cfbio-11.jpg",
+        "acronym": "IFSC",
+        "name": "Instituto de Física de São Carlos",
+        "location": "São Carlos",
+        "courses": [
+            "Ciências Físicas e Biomoleculares",
+            "Física",
+            "Física Computacional",
+            "Licenciatura em Ciências Exatas"
+        ],
+
+         "infra":[
+            "Biblioteca",
+            "Laboratórios de Ensino",
+            "Oficinas",
+            "Centros de Pesquisa",
+            "Auditório",
+        ],
+          
+        "website": "https://www2.ifsc.usp.br",
+        "foundation_year": 1954
+        "history": "O IFSC teve sua origem na Escola de Engenharia de São Carlos (EESC), fundada em 1954, quando constituía o seu Departamento de Física. Em 1971, em virtude da reforma universitária, passou a fazer parte do Instituto de Física e Química de São Carlos (IFQSC), tendo sido finalmente criado como tal em 1994, com o desdobramento do antigo IFQSC.",
+        "mission": "A missão do Instituto de Física de São Carlos (IFSC) é promover a excelência no ensino, pesquisa e extensão em Física, formando profissionais altamente qualificados. O instituto valoriza o rigor científico, a pesquisa e o compromisso com a inovação e resolução de problemas que assolam a sociedade."
+      }
   
