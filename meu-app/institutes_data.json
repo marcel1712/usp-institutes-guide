@@ -1,0 +1,146 @@
+{
+  "institutes": [
+      {
+          "id": 1,
+          "logo": "http://4.bp.blogspot.com/-tbAWK7KCPq0/TbVg-SmjNFI/AAAAAAAAAtQ/QboG2_SDuNo/s1600/logo+fiinal.jpg",
+          "video": "https://youtu.be/bwzYzp6RVAk",
+          "image1": "https://imagens.usp.br/wp-content/uploads/ICMC-Foto-MS_U0Y0891.jpg",
+          "image2": "https://icmc.usp.br/imprensa/5636/estudantes-da-usp-podem-pedir-transferencia-para-os-cursos-do-icmc.jpg",
+          "acronym": "ICMC",
+          "name": "Instituto de Ciências Matemáticas e de Computação de São Carlos da Universidade de São Paulo",
+          "location": "São Carlos",
+          "courses": [
+              "Bacharelado em Ciências de Dados",
+              "Bacharelado em Ciências de Computação",
+              "Licenciatura em Ciências Exatas",
+              "Engenharia de Computação",
+              "Bacharelado em Estatística e Ciência de Dados",
+              "Bacharelado em Matemática Aplicada e Computação Científica",
+              "Bacharelado em Matemática",
+              "Licenciatura em Matemática",
+              "Bacharelado em Sistemas de Informação"
+          ],
+          "infra": [
+              "Biblioteca",
+              "Laboratórios de Pesquisa",
+              "Laboratórios de Ensino",
+              "Auditório",
+              "Prédio de Informática",
+              "Museu de Computação"
+          ],
+          "website": "https://www.icmc.usp.br",
+          "foundation_year": 1971,
+          "history": "O ICMC originou-se como Departamento de Matemática da Escola de Engenharia de São Carlos (EESC), em 1953, fundado por renomados matemáticos italianos e outros competentes professores brasileiros.",
+          "mission": "A missão do ICMC é produzir e disseminar o conhecimento nas áreas de Matemática, Computação e Estatística, formar recursos humanos nos níveis de graduação e de pós-graduação e promover ações culturais, de difusão do conhecimento e de inserção social."
+      },
+      {
+          "id": 2,
+          "logo": "https://eesc.usp.br/imgs/institucional/identidade_visual/identidade_visual_novo_logo.pngvide",
+          "video": "https://www.youtube.com/watch?v=z8HmtrQ9cBQ",
+          "image1": "https://imagens.usp.br/wp-content/uploads/2010/02/saocarlos003.jpg",
+          "image2": "https://eesc.usp.br/imgs/institucional/identidade_visual/identidade_visual_e1.jpg",
+          "acronym": "EESC",
+          "name": "Escola de Engenharia de São Carlos",
+          "location": "São Carlos",
+          "courses": [
+              "Engenharia Aeronáutica",
+              "Engenharia Ambiental",
+              "Engenharia Civil",
+              "Engenharia de Computação",
+              "Engenharia de Materiais e Manufatura",
+              "Engenharia de Produção",
+              "Engenharia Elétrica - Eletrônica",
+              "Engenharia Elétrica - Sistemas de Energia e Automação",
+              "Engenharia Mecânica",
+              "Engenharia Mecatrônica"
+          ],
+          "infra": [
+              "Biblioteca",
+              "Laboratório de Ensino Informatizado",
+              "Laboratórios de Estradas",
+              "Laboratório de Geossintéticos",
+              "Parque de Equipamentos de Informática"
+          ],
+          "website": "https://www.eesc.usp.br",
+          "foundation_year": 1953,
+          "history": "A EESC foi implantada em São Carlos, no interior do Estado de São Paulo, na segunda metade do século XX, e alavancou o desenvolvimento tecnológico e educacional da cidade, reconhecida como A Capital da Tecnologia.",
+          "mission": "Promover o acesso e incentivar o uso da informação e a geração de conhecimento, contribuindo para a qualidade do ensino, pesquisa e extensão na EESC, com a utilização eficaz dos recursos públicos."
+      },
+      {
+          "id": 3,
+          "logo": "https://www.iqsc.usp.br/intranet/ftp/Logotipos/Logotipos%20IQSC/logo_azul_sem_fundo.png",
+          "video": "https://www.youtube.com/watch?v=ckp6vRF6TVc",
+          "image1": "https://www5.iqsc.usp.br/files/2023/07/11072023_Bolsa-IC-Lab-Prof-Julio.jpg",
+          "image2": "https://www5.iqsc.usp.br/files/2020/12/IMG_4312-scaled.jpg",
+          "acronym": "IQSC",
+          "name": "Instituto de Química de São Carlos da Universidade de São Paulo",
+          "location": "São Carlos",
+          "courses": [
+              "Bacharelado em Química",
+              "Licenciatura em Ciências Exatas"
+          ],
+          "infra": [
+              "Biblioteca",
+              "Salas de Aula Teórica",
+              "Anfiteatros",
+              "Salas Multiuso",
+              "Sala de Reuniões",
+              "Laboratórios de Ensino"
+          ],
+          "website": "https://www5.iqsc.usp.br/",
+          "foundation_year": 1994,
+          "history": "O Instituto de Química de São Carlos (IQSC) surgiu em 1994, a partir do desmembramento do Instituto de Física e Química de São Carlos (IFQSC), que havia sido fundado em 1968 durante a reforma universitária da USP. Originalmente vinculado à Escola de Engenharia de São Carlos, o IQSC consolidou-se com atividades de pesquisa, graduação e pós-graduação de excelência, especialmente na área de Físico-Química.",
+          "mission": "A missão do Instituto de Química de São Carlos (IQSC) da USP é promover a excelência no ensino, pesquisa e extensão em Química, formando profissionais altamente qualificados para contribuir com a sociedade. O instituto valoriza a inovação, o rigor científico, a sustentabilidade e o compromisso em enfrentar desafios globais, como energia limpa, saúde e preservação ambiental​"
+      },
+      {
+          "id": 4,
+          "logo": "https://www.iau.usp.br/wp-content/uploads/2024/01/logo_principal_assinatura02_azul_curvas.png",
+          "video": "https://www.youtube.com/watch?v=aeVSnmJpVCM",
+          "image1": "https://uspprofissoes.usp.br/wp-content/uploads/2021/08/1100x734.png",
+          "image2": "https://www.iau.usp.br/acervoprojetomemoria/wp-content/uploads/tainacan-items/9551/16552/MG_4620-scaled.jpg",
+          "acronym": "IAU",
+          "name": "Instituto de Arquitetura e Urbanismo da Universidade de São Paulo",
+          "location": "São Carlos",
+          "courses": [
+              "Bacharelado em Arquitetura e Urbanismo"
+          ],
+          "infra": [
+              "Laboratório de Modelos e Plástica",
+              "Sala pró-alunos",
+              "Laboratório de Construção Civil",
+              "Laboratório de Conforto Ambiental"
+          ],
+          "website": "https://www.iau.usp.br/",
+          "foundation_year": 2010,
+          "history": "O Instituto de Arquitetura e Urbanismo (IAU) foi criado em 14 de dezembro de 2010, como resultado de uma decisão unânime do Conselho Universitário da USP. Sua fundação representou o reconhecimento da trajetória do antigo Departamento de Arquitetura e Urbanismo, que integrou a Escola de Engenharia de São Carlos (EESC) por mais de quatro décadas. Desde então, o IAU consolidou-se como um centro de excelência em ensino, pesquisa e extensão nas áreas de Arquitetura e Urbanismo, atendendo às demandas regionais e nacionais por profissionais capacitados para planejar e produzir ambientes urbanos sustentáveis. A criação do instituto reflete uma aspiração histórica do campus e da cidade de São Carlos, reconhecida em avaliações externas que destacaram a relevância e a qualidade das atividades acadêmicas desenvolvidas.",
+          "mission": "A missão do Instituto de Arquitetura e Urbanismo (IAU) da USP é formar professores, pesquisadores e profissionais altamente capacitados, promovendo a integração entre ensino, pesquisa, extensão universitária e prática profissional. Inserido em duas áreas de concentração – Teoria e História da Arquitetura e do Urbanismo, e Arquitetura, Urbanismo e Tecnologia – o IAU busca fomentar a produção de conhecimento crítico e inovador. O instituto visa capacitar seus discentes para desenvolver soluções tecnológicas, projetuais e artísticas que atendam aos desafios contemporâneos, contribuindo para a construção de ambientes urbanos mais sustentáveis e para o avanço do pensamento crítico na área.​"
+      },
+      {
+          "id": 5,
+          "logo": "https://www2.ifsc.usp.br/portal-ifsc/wp-content/uploads/2017/03/logotipo_ifsc_750x170.jpg",
+          "video": "https://youtu.be/bYHhacfJzeQ?si=cS0v_BqK0dZXhkY4",
+          "image1": "https://www2.ifsc.usp.br/portal-ifsc/wp-content/uploads/2021/08/adm-11.jpg",
+          "image2": "https://www2.ifsc.usp.br/portal-ifsc/wp-content/uploads/2021/08/cfbio-11.jpg",
+          "acronym": "IFSC",
+          "name": "Instituto de Física de São Carlos",
+          "location": "São Carlos",
+          "courses": [
+              "Ciências Físicas e Biomoleculares",
+              "Física",
+              "Física Computacional",
+              "Licenciatura em Ciências Exatas"
+          ],
+          "infra": [
+              "Biblioteca",
+              "Laboratórios de Ensino",
+              "Oficinas",
+              "Centros de Pesquisa",
+              "Auditório"
+          ],
+          "website": "https://www2.ifsc.usp.br",
+          "foundation_year": 1954,
+          "history": "O IFSC teve sua origem na Escola de Engenharia de São Carlos (EESC), fundada em 1954, quando constituía o seu Departamento de Física. Em 1971, em virtude da reforma universitária, passou a fazer parte do Instituto de Física e Química de São Carlos (IFQSC), tendo sido finalmente criado como tal em 1994, com o desdobramento do antigo IFQSC.",
+          "mission": "A missão do Instituto de Física de São Carlos (IFSC) é promover a excelência no ensino, pesquisa e extensão em Física, formando profissionais altamente qualificados. O instituto valoriza o rigor científico, a pesquisa e o compromisso com a inovação e resolução de problemas que assolam a sociedade."
+      }
+  ]
+}
