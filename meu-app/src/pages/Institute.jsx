@@ -1,4 +1,5 @@
 import React from "react";
+import './Institute.css';
 
 function Sobre() {
   return (
@@ -43,7 +44,6 @@ function Sobre() {
         width="500"
         height="400"
         style={{ border: 0 }}
-        allowFullScreen=""
         loading="lazy"
         referrerPolicy="no-referrer-when-downgrade"
         title="Mapa"
@@ -53,4 +53,4 @@ function Sobre() {
   );
 }
 
-export default Sobre;
+export default Institute;
