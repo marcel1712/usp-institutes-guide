@@ -28,9 +28,7 @@ function Navbar_result() {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="posicao-navbar ms-auto text-center d-flex justify-content-center align-items-center">
-              <Nav.Link href="inicio" className="text-secondary">Início</Nav.Link>
-              <Nav.Link href="grupos" className="text-secondary">Grupos</Nav.Link>
-              
+              <Nav.Link href="inicio" className="text-secondary">Início</Nav.Link>              
               {/* Dropdown de Institutos */}
               <NavDropdown title="Institutos" id="basic-nav-dropdown" className="text-secondary">
                 {institutes.map((institute) => (
