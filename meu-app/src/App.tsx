@@ -4,6 +4,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar_result from './navigation/Navbar';
 //import Home from './pages/Home';
 import Group from './pages/Home';
+import Footer from './components/footer/Footer';
+
 
 function App() {
   return (
@@ -12,6 +14,7 @@ function App() {
       <header className="App-header">
         <Group/>
       </header>
+      <Footer/>
     </div>
   );
 }
