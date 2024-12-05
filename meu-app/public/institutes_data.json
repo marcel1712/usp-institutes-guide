@@ -692,6 +692,78 @@
               "Centros de Pesquisa",
               "Auditório"
           ],
+          "groups":[
+            {
+              "name": "Filosofísica!",
+              "logo": "https://yt3.googleusercontent.com/H3LOS2ni06rkUSQCIKCNMXxUAcC_FKcjns4mR71ryMbUQKDqRCC86-3dVBCcnxU2bJZpVPZiLw=s160-c-k-c0x00ffffff-no-rj",
+              "miniDescription": "Grupo de extensão focado em discussões sobre filosofia, história e sociologia da ciência.",
+              "detailedDescription": "O Filosofísica é um grupo de discussões aberto e horizontal, com atividades que exploram temas como filosofia, história e sociologia da ciência, além de reflexões gerais sobre ciência e vida. Fundado em 2011, o grupo promove discussões e apresentações semanais no IFSC-USP, proporcionando um ambiente descontraído e inclusivo para reflexões e aprendizados diferentes do tradicional enfoque da graduação.",
+              "otherActivities": "Organiza apresentações e debates semanais, abertos a todos, sobre temas diversos relacionados a ciências exatas e humanas. O grupo também promove atividades que conectam a física e a ciência com aspectos filosóficos e históricos.",
+              "site": "",
+              "socialmidias": [
+                {
+                  "instagram": "https://www.instagram.com/filo.sofisica/",
+                  "youtube": "https://www.youtube.com/channel/UCQrIgaK9txFW669rBh0dDcQ"
+                }
+              ]
+            },
+            {
+              "name": "SPIE Student Chapter USP-SC",
+              "logo": "https://yt3.googleusercontent.com/LK6044OwLhpgTZkpfZeSbdQYURXBhOZxSqtPNSPSp_CbU47ZXwk6i6zp98pBSsLSnfUWdfwT=s160-c-k-c0x00ffffff-no-rj",
+              "miniDescription": "Grupo de extensão focado em óptica e fotônica, promovendo tecnologias baseadas no uso da luz.",
+              "detailedDescription": "O USP-SC SPIE Student Chapter, fundado em 2014 no Instituto de Física de São Carlos, é um grupo orientado pela Sociedade Internacional de Óptica e Fotônica (SPIE). Composto por cerca de 26 membros, incluindo alunos de graduação e pós-graduação, o Chapter organiza eventos, visitas técnicas e atividades que fomentam o desenvolvimento de carreiras científicas. Apoiados pela SPIE, os membros exploram temas inovadores em óptica e fotônica.",
+              "otherActivities": "O grupo organiza visitas técnicas, palestras e eventos temáticos. Em 2024, promoveu um evento com foco na participação de mulheres na ciência, incluindo palestras e conversas com convidadas renomadas. Além disso, realiza visitas a laboratórios e instituições de pesquisa.",
+              "site": "",
+              "socialmidias": [
+                {
+                  "instagram": "https://www.instagram.com/spiechapteruspsc/",
+                  "youtube": "https://www.youtube.com/channel/UCDQrwvKS-1QvMusba_9mHzQ"
+                }
+              ]
+            },
+            {
+              "name": "Organização da SIFSC",
+              "logo": "https://yt3.googleusercontent.com/ZhW8x9um-iZDpiDIiuF2GAt8fqs3KhZQIUqbLMYRct791XOeyBGG56ckFtEuHR4d7ZuFbqv8mQ=s160-c-k-c0x00ffffff-no-rj",
+              "miniDescription": "Grupo organizador da Semana Integrada do IFSC/USP.",
+              "detailedDescription": "A Organização da SIFSC é responsável por coordenar a Semana Integrada do IFSC/USP (SIFSC), evento que une graduação, pós-graduação e pós-doutorandos em um intercâmbio científico e cultural. Criada em 2011, a SIFSC promove a integração e visibilidade dos trabalhos de pesquisa e extensão da comunidade IFSC, incentivando o orgulho e o compromisso científico entre os participantes.",
+              "otherActivities": "Além da avaliação anual de trabalhos de pós-graduação e do Simpósio Internacional de Iniciação Científica e Tecnológica da USP (SIICUSP), a SIFSC organiza o Prêmio Yvonne Primerano Mascarenhas de Excelência Acadêmica e Divulgação Científica, atrações culturais, minicursos, palestras e outras atividades especiais.",
+              "site": "https://sifsc.ifsc.usp.br/",
+              "socialmidias": [
+                {
+                  "instagram": "https://www.instagram.com/sifsc_usp/",
+                  "youtube": "https://www.youtube.com/sifscUSP"
+                }
+              ]
+            },
+            {
+              "name": "Ciência Nossa",
+              "logo": "https://instagram.faqa1-1.fna.fbcdn.net/v/t51.2885-19/298962362_416343650559951_3177269871658776654_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.faqa1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=FWSdmFymjsMQ7kNvgGy6SgK&_nc_gid=8a10f3f0957b4438ab4e9ef134daaa72&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AYBjxWUSzKG9q0cvC_ifIg3AScXkdcQ8ZN8nA6aVACo5Uw&oe=6757814A&_nc_sid=22de04",
+              "miniDescription": "Grupo de extensão que realiza apresentações quinzenais sobre temas de física.",
+              "detailedDescription": "O Ciência Nossa é um grupo dedicado a promover apresentações quinzenais abordando temas diversos relacionados à física. Com um foco educativo e reflexivo, o grupo busca tornar a ciência mais acessível e estimular o interesse por questões científicas entre seus participantes.",
+              "otherActivities": "Além das apresentações, o grupo incentiva debates e discussões que ampliam o entendimento sobre a física e suas aplicações.",
+              "site": "",
+              "socialmidias": [
+                {
+                  "instagram": "https://www.instagram.com/ciencia.nossa/",
+                  "youtube":""
+                }
+              ]
+            },
+            {
+              "name": "USP-IFSC OPTICA",
+              "logo": "https://instagram.faqa1-1.fna.fbcdn.net/v/t51.2885-19/246524092_425120365628474_6159853802036962024_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.faqa1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=EWDY06XZISgQ7kNvgEgAWwf&_nc_gid=82dd10be70f8461d93824ef4e37e9074&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AYDIwkBE8F44s713nGVIz1K30GSELAMQS2Le4zzzH6j9zw&oe=67578B40&_nc_sid=22de04",
+              "miniDescription": "Capítulo estudantil da Sociedade Óptica com foco em óptica e fotônica.",
+              "detailedDescription": "O USP-IFSC OPTICA é um capítulo estudantil da Sociedade Óptica (Optica) com o objetivo de promover o desenvolvimento profissional e disseminar conhecimento na área de óptica e fotônica. Suas atividades envolvem tanto a comunidade acadêmica da USP quanto o público em geral.",
+              "otherActivities": "O grupo organiza workshops, seminários, visitas técnicas e eventos sociais para fomentar o interesse e o conhecimento em óptica e fotônica.",
+              "site": "",
+              "socialmidias": [
+                {
+                  "instagram": "https://www.instagram.com/optica.ifsc/",
+                  "youtube":""
+                }
+              ]
+            } 
+          ],
           "website": "https://www2.ifsc.usp.br",
           "foundation_year": 1954,
           "history": "O IFSC teve sua origem na Escola de Engenharia de São Carlos (EESC), fundada em 1954, quando constituía o seu Departamento de Física. Em 1971, em virtude da reforma universitária, passou a fazer parte do Instituto de Física e Química de São Carlos (IFQSC), tendo sido finalmente criado como tal em 1994, com o desdobramento do antigo IFQSC.",
