@@ -40,7 +40,7 @@ function Sobre() {
       </p>
       <h2 className="mapa">Mapa</h2>
       <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d777.6346311531665!2d-47.89768839675342!3d-22.008454529228068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94b87734a55e2a89%3A0xdf4430229c1ecdbd!2sIFSC%20-%20Instituto%20de%20F%C3%ADsica%20de%20S%C3%A3o%20Carlos!5e0!3m2!1spt-BR!2sbr!4v1732899952968!5m2!1spt-BR!2sbr"
+        src="mapaurl"
         width="500"
         height="400"
         style={{ border: 0 }}
