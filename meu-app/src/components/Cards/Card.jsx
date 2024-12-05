@@ -1,18 +1,10 @@
 import React from 'react';
 import style from './card.css';
 
-interface CardProps {
-  title: string;
-  description: string;
-  imageUrl: string; // Torna a imagem opcional
-  categoria1: string;
-  categoria2: string;
-}
-
-function Card({ title, description, imageUrl, categoria1, categoria2 }: CardProps) {
+function Card({ title, description, imageUrl, categoria1, categoria2 }) {
   return (
     <div className={style.card}>
-      {imageUrl && <img src={imageUrl} alt={title} className={style.image} />}
+      <img src={imageUrl} alt={title} className={style.image} />
       <div className={style.content}>
         <h2 className={style.title}>{title}</h2>
         <p className={style.description}>{description}</p>
