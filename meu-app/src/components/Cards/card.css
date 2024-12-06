@@ -1,0 +1,35 @@
+.card {
+  display: flex;
+  flex-direction: column; /* Organiza a imagem e o conteúdo na vertical */
+  align-items: center;
+  justify-content: flex-start;
+  width: 300px; /* Ajuste o tamanho do card conforme necessário */
+  margin: 10px; /* Espaçamento entre os cards */
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden; /* Impede que as imagens saiam da área do card */
+}
+
+.logo {
+  width: 100%; /* Faz a imagem ocupar toda a largura do card */
+  height: 200px; /* Defina uma altura fixa para as imagens */
+  object-fit: cover; /* Faz com que a imagem se ajuste ao tamanho do contêiner */
+}
+
+.content {
+  padding: 15px;
+  text-align: center;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.miniDescription {
+  font-size: 14px;
+  color: #555;
+}
