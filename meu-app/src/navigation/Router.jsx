@@ -1,52 +1,55 @@
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
-import { useEffect, useState } from "react";
-
-// Importação de páginas
+import { RouterProvider, createBrowserRouter, Outlet } from "react-router-dom";
 import Home from "../pages/Home";
-import Group from "../pages/Group";
 import Institute from "../pages/Institute";
+import Navbar_result from "./Navbar";
 import NotFound from "../pages/NotFound";
+import Footer from '../components/footer/Footer';
+import Page from "../pages/Group";
 
 
-// Função para carregar dados do JSON
-async function fetchInstitutes() {
-  const response = await fetch("../../institutes_data.json"); // Caminho para o arquivo JSON
-  return response.json();
-}
+// Layout principal com o Navbar e Footer
+const MainLayout = () => (
+  <div>
+    <Navbar_result />
+    <Outlet /> 
+    <Footer />
+  </div>
+);
+
+// Definindo as rotas com o layout principal
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <MainLayout />, 
+    children: [
+      {
+        path: "/",  
+        element: <Home />,
+      },
+      {
+        path: "/institute/:id",  
+        element: <Institute />,
+      },
+      {
+        path: "/institute/:instituteId/page/:groupId",  
+        element: <Page />,
+      },
+      {
+        path: "/notfound", 
+        element: <NotFound />,
+      },
+    ],
+    errorElement: (
+      <div>
+        <Navbar_result />
+        <NotFound />  
+      </div>
+    ),
+  },
+]);
 
 function Router() {
-  const [routes, setRoutes] = useState([]);
-
-  useEffect(() => {
-    async function loadRoutes() {
-      const institutes = await fetchInstitutes();
-      
-      // Criar rotas para os institutos com base no JSON
-      const instituteRoutes = institutes.map(institute => ({
-        path: institute.path,
-        element: <Institute acronym={institute.acronym} />,
-      }));
-
-      setRoutes([
-        {
-          path: "/",
-          element: <Home />,
-          errorElement: <NotFound />,
-        },
-     
-        ...instituteRoutes, // Adicionar rotas dos institutos
-      ]);
-    }
-
-    loadRoutes();
-  }, []);
-
-  // Somente renderizar o `RouterProvider` quando as rotas estiverem carregadas
-  if (routes.length === 0) {
-    return <div>Carregando...</div>;
-  }
-
-  return <RouterProvider router={createBrowserRouter(routes)} />;
+  return <RouterProvider router={router} />;
 }
 
 export default Router;

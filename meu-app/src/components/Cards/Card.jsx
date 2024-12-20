@@ -1,17 +1,13 @@
 import React from 'react';
 import style from './card.css';
 
-function Card({ title, description, imageUrl, categoria1, categoria2 }) {
+function Card({ name, miniDescription, logo }) {
   return (
     <div className={style.card}>
-      <img src={imageUrl} alt={title} className={style.image} />
+      <img src={logo} alt={name} className={style.logo} />
       <div className={style.content}>
-        <h2 className={style.title}>{title}</h2>
-        <p className={style.description}>{description}</p>
-        <div className={style.container}>
-          <h3>{categoria1}</h3>
-          <h3>{categoria2}</h3>
-        </div>
+        <h2 className={style.name}>{name}</h2>
+        <p className={style.miniDescription}>{miniDescription}</p>
       </div>
     </div>
   );

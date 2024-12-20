@@ -30,6 +30,7 @@
           ],
           "groups":[
             {
+                "id":1,
                 "name": "GANESH",
                 "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kNxCzmKdVsP-YU2agg348XdvvHt9XzgVSQujyKx4IELPQ=s900-c-k-c0x00ffffff-no-rj",
                 "miniDescription": "Grupo extracurricular focado em segurança da informação",
@@ -46,6 +47,7 @@
                   ]
             },
             {
+              "id":2,
                 "name": "Campanha USP do Agasalho",
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbK0vs5elmAFnWu1DzNJoAaJC_heDXL1DFQA&s",
                 "miniDescription": "Grupo extracurricular focado em arrecadar e destinar roupas para entidades sociais da cidade",
@@ -60,6 +62,7 @@
                   ]
             },
             {
+              "id":3,
                 "name": "Corvus AI",
                 "logo": "https://ugc.production.linktr.ee/190663af-0371-4101-9225-f9f7b528790c_Camada-1.png?io=true&size=avatar-v3_0",
                 "miniDescription": "Grupo extracurricular focado em pesquisa e desenvolvimento cientifico voltada para IA ",
@@ -74,6 +77,7 @@
                 ]   
             },
             {
+              "id":4,
                 "name": "DATA",
                 "logo": "https://yt3.googleusercontent.com/QOrTmQczfI3AgWRJncrvlAr0X8BCtD27lAdpaXeBhcOrSPrq1G5eGnQpFdUwT5Q7NhbzL1bK2A=s900-c-k-c0x00ffffff-no-rj",
                 "miniDescription": "Grupo extracurricular focado em ciência de dados e aprendizado de máquina",
@@ -88,6 +92,7 @@
                 ]   
             },
             {
+              "id":5,
                 "name": "GELOS",
                 "logo": "https://media.licdn.com/dms/image/v2/C560BAQF6S3TcSe5Ajw/company-logo_200_200/company-logo_200_200/0/1643997499541/gelos_icmc_logo?e=2147483647&v=beta&t=Dx5Xix9xyv11QPjR83A-aF-tIFkM1lHV1YTunqsnfyo",
                 "miniDescription": "Grupo de extensão focado em Livre e Open Source",
@@ -102,6 +107,7 @@
                 ]   
             },
             {
+              "id":6,
                 "name": "GRACE",
                 "logo": "https://meninas.sbc.org.br/wp-content/uploads/2018/05/37388354_2351999355027071_2087547362204450816_n.jpg",
                 "miniDescription": "Grupo de extensão focado em promover a inclusão de mulheres nas ciências exatas e tecnologia",
@@ -116,6 +122,7 @@
                 ]   
             },
             {
+              "id":7,
                 "name": "GEMA",
                 "logo": "http://gema.icmc.usp.br/static/media/gema_logo.3b423f42.png",
                 "miniDescription": "Grupo de extensão focado em programação competitiva e preparação para maratonas de programação.",
@@ -130,6 +137,7 @@
                 ]   
             },
             {
+              "id":8,
                 "name": "LESC",
                 "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHUzZl8Xwt5MA/company-logo_200_200/company-logo_200_200/0/1630575828603/ligadeempreendedorismosc_logo?e=2147483647&v=beta&t=11ZlGCE_Sen7Sx4eLU6tir2OxP-UoSpUAbte37xjFzs",
                 "miniDescription": "Grupo de extensão focado em promover o empreendedorismo entre universitários de São Carlos e região",
@@ -144,6 +152,7 @@
                 ]   
             },
             {
+              "id":9,
                 "name": "NEMO",
                 "logo": "https://ugc.production.linktr.ee/2dsUgk6LSKuW2A15T5XC_ubpzlrJfSBWHaZPi?io=true&size=avatar-v3_0",
                 "miniDescription": "O grupo tem como objetivo motivar alunos da graduação a explorar e resolver problemas matemáticos considerados fundamentais na área. Além disso, prepara estudantes de diversos cursos da USP São Carlos para competições como OBMU, CIIM e IMC, promovendo o estudo aprofundado de matemática e a aplicação prática do conhecimento",
@@ -158,6 +167,7 @@
                 ]   
             },
             {
+              "id":10,
                 "name": "Projeto Aprender",
                 "logo": "https://aprender.rotarybandeirantes.org/img/logo_aprender.png",
                 "miniDescription": "Grupo de extensão focado em oferecer reforço educacional gratuito para alunos de escolas públicas.",
@@ -172,6 +182,7 @@
                 ]   
             },
             {
+              "id":11,
                 "name": "PET Computação USP",
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4dv4eANRh2vGJP8dGOQ5yRwa8HExrqGGOEw&s",
                 "miniDescription": "Grupo de extensão focado em ensino, pesquisa e extensão para complementar a formação acadêmica em computação",
@@ -186,6 +197,7 @@
                 ]   
             },
             {
+              "id":12,
                 "name": "FoG (Fellowship of The Game)",
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4dv4eANRh2vGJP8dGOQ5yRwa8HExrqGGOEw&s",
                 "miniDescription": "Grupo de extensão focado em desenvolvimento de jogos e disseminação de conhecimento através de cursos e eventos",
@@ -200,6 +212,7 @@
                 ]   
             },
             {
+              "id":13,
                 "name": "USPCodeLab",
                 "logo": "https://uclsanca.icmc.usp.br/logo-codelab-full.png",
                 "miniDescription": "Grupo de extensão focado em inovação tecnológica e formação prática em desenvolvimento de software.",
@@ -214,6 +227,7 @@
                 ]   
             },
             {
+              "id":14,
                 "name": "Warthog Robotics",
                 "logo": "https://i0.wp.com/wr.sc.usp.br/wp-content/uploads/elementor/thumbs/wr_logo_vertical_1024-pk6qnxvt11vezjtt4rtc48stkba2itlfq5cpb1njls.png?w=1170&ssl=1",
                 "miniDescription": "Grupo de extensão focado em pesquisa e desenvolvimento de tecnologias robóticas para competições e aplicações práticas.",
@@ -228,6 +242,7 @@
                 ]   
             },
             {
+              "id":15,
                 "name": "Women in Tech",
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmagbhSBmswuJcuoX5XkCVBAsB0WEHkPd_wg&s",
                 "miniDescription": "Grupo de extensão focado em discutir e promover a representatividade feminina em ciência e tecnologia.",
@@ -277,6 +292,7 @@
           ],
           "groups": [
             {
+              "id":1,
                 "name": "ADA",
                 "logo": "https://yt3.googleusercontent.com/tYHpqkfoYcB_Gv_NIbvMdirWVuG7q5SWqc6aFJytfs3fUnzdJ6_OL1_KewC6dkblKEnZzSZO=s160-c-k-c0x00ffffff-no-rj",
                 "miniDescription": "Grupo extracurricular focado em projetos reais de engenharia de computação.",
@@ -291,6 +307,7 @@
                 ]
               },
               {
+                "id":2,
                 "name": "EESC USP Baja SAE",
                 "logo": "https://baja.eesc.usp.br/logo.png",
                 "miniDescription": "Grupo extracurricular focado em desenvolvimento de veículos off-road para competições.",
@@ -305,6 +322,7 @@
                 ]
               },
               {
+                "id":3,
                 "name": "EESC USP AeroDesign",
                 "logo": "https://scontent.faqa1-1.fna.fbcdn.net/v/t39.30808-6/301039656_503706805088447_4958659522987186813_n.png",
                 "miniDescription": "Grupo de extensão focado em desenvolvimento e competição de aeronaves.",
@@ -319,6 +337,7 @@
                 ]
               },
               {
+                "id":4,
                 "name": "EESC USP Formula SAE",
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv1TBSlhAzhNtiu_uGRHiqT5mUcjCeczRhfg&s",
                 "miniDescription": "Grupo de extensão focado em desenvolvimento de protótipos automotivos para competições.",
@@ -333,6 +352,7 @@
                 ]
             },
             {
+              "id":5,
                 "name": "EESC USP Tupã",
                 "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFH49RuQNaTOg/company-logo_200_200/company-logo_200_200/0/1630485718487/usptupa_logo?e=2147483647&v=beta&t=TGq-j49p6GGXgdfObDidCSU3eTmpoEmrEP_xGrGQ9Wg",
                 "miniDescription": "Grupo de extensão focado em desenvolver carros elétricos de alta performance.",
@@ -347,6 +367,7 @@
                 ]
               },
               {
+                "id":6,
                 "name": "Econ",
                 "logo": "https://kbpe3He2Q0ChNGla1Xzy_NktSBS8Ek48rfH07 (400×400)",
                 "miniDescription": "Grupo de extensão focado em tecnologia do concreto e inovação estrutural.",
@@ -360,6 +381,7 @@
                 ]
               },
               {
+                "id":7,
                 "name": "GEISA",
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazBkdb73-l7Igz7RQIkomKex7zWhbQTgeng&s",
                 "miniDescription": "Grupo de extensão focado em intervenções socioambientais e sustentabilidade.",
@@ -374,6 +396,7 @@
                 ]
               },
               {
+                "id":8,
                 "name": "SEA - Semana da Engenharia Ambiental",
                 "logo": "https://instagram.faqa1-1.fna.fbcdn.net/v/t51.2885-19/424430739_1328394341140391_7094922184191319782_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.faqa1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=75MwKMJNJ74Q7kNvgFIVFs0&_nc_gid=e5806803218a4098a313827118fee54c&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYBZqeTdM536ZeCQhysdStDOfelVsQWB7Q9jVdG8aEmQAQ&oe=6756C4A0&_nc_sid=7a9f4b",
                 "miniDescription": "Grupo de extensão focado em eventos sobre engenharia ambiental e sustentabilidade.",
@@ -388,6 +411,7 @@
                 ]
               },
               {
+                "id":9,
                 "name": "Zenith EESC USP",
                 "logo": "https://instagram.faqa1-1.fna.fbcdn.net/v/t51.2885-19/30829661_1956925987674598_6049847566860812288_n.jpg?stp=dst-jpg_s150x150",
                 "miniDescription": "Grupo de extensão focado em engenharia aeroespacial e construção de satélites.",
@@ -402,6 +426,7 @@
                 ]
               },
               {
+                "id":10,
                 "name": "Grupo organizador do SEnC - Semana da Engenharia de Computação",
                 "logo": "https://senc.icmc.usp.br/img/logo_senc.png",
                 "miniDescription": "Grupo de extensão focado em organizar a Semana da Engenharia de Computação.",
@@ -416,6 +441,7 @@
                 ]
               },
               {
+                "id":11,
                 "name": "WiE (Women in Engineering)",
                 "logo": "https://scontent.faqa1-1.fna.fbcdn.net/v/t39.30808-1/233075197_219529360180602_6498606940153635594_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=101&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=CyAoKQE87F4Q7kNvgFdKrI2&_nc_zt=24&_nc_ht=scontent.faqa1-1.fna&_nc_gid=AjXogOOwJsCQu_TBYv9hEQX&oh=00_AYCvZ6njdcf1Q5Zr1AVAU-Oc7HlSQbr78IXgDVJzdxCgkg&oe=6756C30F",
                 "miniDescription": "Grupo de extensão focado em incentivar a permanência de mulheres nos cursos de engenharia e ciências exatas.",
@@ -430,6 +456,7 @@
                 ]
               },
               {
+                "id":12,
                 "name": "TOPUS - Projetos Aeroespaciais",
                 "logo": "https://lh4.googleusercontent.com/bBbTbTirhCOUwGSbO58bK0t5MnorPINkD48l10v_yXCv3Rx1BK1cYYqUYHonONHl16CPLS5XMO3auOA0vbFNgb3sOCtCdzy2WRoB8jtd9iXOCt7CeQHeJnUCUcvz9TB7vQ=w1280",
                 "miniDescription": "Grupo de extensão focado em pesquisa e desenvolvimento de projetos aeroespaciais.",
@@ -444,6 +471,7 @@
                 ]
               },
               {
+                "id":13,
                 "name": "Ramo Estudantil IEEE - USP São Carlos",
                 "logo": "https://scontent.faqa1-1.fna.fbcdn.net/v/t39.30808-6/327298266_687058819782964_350862808031852114_n.png?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=G87ApYJvfVUQ7kNvgG75Cx6&_nc_zt=23&_nc_ht=scontent.faqa1-1.fna&_nc_gid=AylQun7YGc1aZK1tgPSwf0r&oh=00_AYDw1DPCGZ-WitU5V11M0XErVNkeb52dfhVeklq1ey-bWw&oe=6756CE99",
                 "miniDescription": "Grupo de extensão focado na difusão do conhecimento prático e teórico das ciências e engenharias.",
@@ -458,6 +486,7 @@
                 ]
               },
               {
+                "id":14,
                 "name": "Núcleo de Empreendedorismo da USP São Carlos (NEU-SC)",
                 "logo": "https://scontent.faqa1-1.fna.fbcdn.net/v/t39.30808-1/304926464_443601391123004_1173162252668678545_n.png?stp=dst-png_s200x200&_nc_cat=103&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=fkx3rbxWtOsQ7kNvgGjS9SQ&_nc_zt=24&_nc_ht=scontent.faqa1-1.fna&_nc_gid=AkiXmhdfIKlQdf6FbJV8sXg&oh=00_AYBiJ6zYKddWTFr4RgzTdfJ_udKpqxquitH7Fe9o8v2Drg&oe=6756E3BF",
                 "miniDescription": "Grupo de extensão focado em difundir a cultura empreendedora no campus da USP São Carlos.",
@@ -472,6 +501,7 @@
                 ]
               },
               {
+                "id":15,
                 "name": "Campanha USP do Agasalho",
                 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbK0vs5elmAFnWu1DzNJoAaJC_heDXL1DFQA&s",
                 "miniDescription": "Grupo extracurricular focado em arrecadar e destinar roupas para entidades sociais da cidade",
@@ -486,6 +516,7 @@
                   ]
             },
             {
+              "id":16,
                 "name": "SEMEAR",
                 "logo": "cropped-s.png",
                 "miniDescription": "Grupo de extensão focado em projetos inovadores de engenharia e robótica.",
@@ -500,6 +531,7 @@
                 ]
             },
             {
+              "id":17,
                 "name": "Sematron - Semana da Engenharia Mecatrônica EESC USP",
                 "logo": "https://scontent.faqa1-1.fna.fbcdn.net/v/t39.30808-1/304072469_497952945672210_8414318555876934122_n.jpg?stp=dst-jpg_s200x200&_nc_cat=102&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=tRP5F5t1qxYQ7kNvgFfwUWH&_nc_zt=24&_nc_ht=scontent.faqa1-1.fna&_nc_gid=A-LcMv39I5uTbww9BULbExy&oh=00_AYAeF3PSV7zRxHw_f5C8C14pjfpLa1DR58UwqZMEId0rzg&oe=6756D109",
                 "miniDescription": "Grupo de extensão focado em promover o intercâmbio de conhecimento em engenharia mecatrônica.",
@@ -514,6 +546,7 @@
                 ]
             },
             {
+              "id":18,
                 "name": "SEA (Grupo organizador da Semana de Engenharia Aeronáutica)",
                 "logo": "https://sea.eesc.usp.br/wp-content/uploads/2021/05/logo.png",
                 "miniDescription": "Grupo de extensão focado em promover a discussão e formação na área de engenharia aeronáutica.",
@@ -528,6 +561,7 @@
                 ]
             },
             {
+              "id":19,
                 "name": "Sameca - Secretaria Acadêmica da Mecânica",
                 "logo": "https://sameca.eesc.usp.br/wp-content/uploads/2024/07/logo-s-letra-300x233.png",
                 "miniDescription": "Grupo de extensão focado em complementar a formação de engenheiros mecânicos.",
@@ -542,6 +576,7 @@
                 ]
               },
               {
+                "id":20,
                 "name": "SEC - Semana da Engenharia Civil EESC USP",
                 "logo": "qv4Tq8OdTwKZefpVAQDv_nT1s754yGwVGI0qB",
                 "miniDescription": "Grupo de extensão focado em promover eventos relacionados à engenharia civil.",
@@ -584,6 +619,7 @@
           ],
           "groups":[
             {
+              "id":1,
                 "name": "ACS USP Student Chapter",
                 "logo": "https://instagram.faqa1-1.fna.fbcdn.net/v/t51.2885-19/365424220_263269666486840_1714228208481665306_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.faqa1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=Xto0D6hd3YoQ7kNvgEKcKXd&_nc_gid=6a871e5d190d4040b2bc6c0a11bc6238&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AYD33uj7LZBiIe52ufePVeHCfHN05E10DBYyAYqLZ3TrpQ&oe=6756CEE3&_nc_sid=22de04",
                 "miniDescription": "Grupo de extensão focado em aproximar a ciência do público.",
@@ -598,6 +634,7 @@
                 ]
               },
               {
+                "id":2,
                 "name": "Comissão Organizadora Discente/SEMAQ",
                 "logo": "https://extensao.iqsc.usp.br/files/2022/09/Logo-COD-SEMAQ-Preto-1-Laura-Pereira-Clemente-300x298.png",
                 "miniDescription": "Grupo de extensão focado na organização da Semana da Química 'Prof. Edson Rodrigues'.",
@@ -612,6 +649,7 @@
                 ]
               },
               {
+                "id":3,
                 "name": "EducAção",
                 "logo": "https://extensao.iqsc.usp.br/files/2022/09/Logo-Ana-Claudia-Kasseboehmer-300x300.jpeg",
                 "miniDescription": "Grupo de extensão focado em promover melhorias no ensino e aprendizagem da educação básica.",
@@ -626,6 +664,7 @@
                 ]
               },
               {
+                "id":4,
                 "name": "PET Química IQSC",
                 "logo": "https://instagram.faqa1-1.fna.fbcdn.net/v/t51.2885-19/278803532_5610941698919273_1051250284175082360_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.faqa1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=EmSY4-8mOp4Q7kNvgEFjH8i&_nc_gid=d46cd69d9aa34581a95c7716018e0372&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYDjtQCH54xOntQ_eEDnks2HFiRwxXhqZq_b1fEgsaMJEw&oe=6756E7AE&_nc_sid=7a9f4b",
                 "miniDescription": "Grupo de extensão focado na formação tutorial em ensino, pesquisa e extensão.",
@@ -694,6 +733,7 @@
           ],
           "groups":[
             {
+              "id":1,
               "name": "Filosofísica!",
               "logo": "https://yt3.googleusercontent.com/H3LOS2ni06rkUSQCIKCNMXxUAcC_FKcjns4mR71ryMbUQKDqRCC86-3dVBCcnxU2bJZpVPZiLw=s160-c-k-c0x00ffffff-no-rj",
               "miniDescription": "Grupo de extensão focado em discussões sobre filosofia, história e sociologia da ciência.",
@@ -708,6 +748,7 @@
               ]
             },
             {
+              "id":2,
               "name": "SPIE Student Chapter USP-SC",
               "logo": "https://yt3.googleusercontent.com/LK6044OwLhpgTZkpfZeSbdQYURXBhOZxSqtPNSPSp_CbU47ZXwk6i6zp98pBSsLSnfUWdfwT=s160-c-k-c0x00ffffff-no-rj",
               "miniDescription": "Grupo de extensão focado em óptica e fotônica, promovendo tecnologias baseadas no uso da luz.",
@@ -722,6 +763,7 @@
               ]
             },
             {
+              "id":3,
               "name": "Organização da SIFSC",
               "logo": "https://yt3.googleusercontent.com/ZhW8x9um-iZDpiDIiuF2GAt8fqs3KhZQIUqbLMYRct791XOeyBGG56ckFtEuHR4d7ZuFbqv8mQ=s160-c-k-c0x00ffffff-no-rj",
               "miniDescription": "Grupo organizador da Semana Integrada do IFSC/USP.",
@@ -736,6 +778,7 @@
               ]
             },
             {
+              "id":4,
               "name": "Ciência Nossa",
               "logo": "https://instagram.faqa1-1.fna.fbcdn.net/v/t51.2885-19/298962362_416343650559951_3177269871658776654_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.faqa1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=FWSdmFymjsMQ7kNvgGy6SgK&_nc_gid=8a10f3f0957b4438ab4e9ef134daaa72&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AYBjxWUSzKG9q0cvC_ifIg3AScXkdcQ8ZN8nA6aVACo5Uw&oe=6757814A&_nc_sid=22de04",
               "miniDescription": "Grupo de extensão que realiza apresentações quinzenais sobre temas de física.",
@@ -750,6 +793,7 @@
               ]
             },
             {
+              "id":5,
               "name": "USP-IFSC OPTICA",
               "logo": "https://instagram.faqa1-1.fna.fbcdn.net/v/t51.2885-19/246524092_425120365628474_6159853802036962024_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.faqa1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=EWDY06XZISgQ7kNvgEgAWwf&_nc_gid=82dd10be70f8461d93824ef4e37e9074&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AYDIwkBE8F44s713nGVIz1K30GSELAMQS2Le4zzzH6j9zw&oe=67578B40&_nc_sid=22de04",
               "miniDescription": "Capítulo estudantil da Sociedade Óptica com foco em óptica e fotônica.",

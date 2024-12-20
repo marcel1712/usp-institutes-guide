@@ -4,7 +4,7 @@ import './Home.css';
 const Home = () =>{
     return(
         <Container>
-            <div className="tema">
+            <div className="tema mt-5">
                 <span className="topico1">O que são os Grupos Extracurriculares?</span>
             </div>
             <div className="ex1">

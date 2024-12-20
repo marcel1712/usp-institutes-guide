@@ -1,67 +1,108 @@
-import React from "react";
-import "./Group.css";
+import React, { useState, useEffect, useCallback } from 'react';
+import { useNavigate, useParams } from 'react-router-dom';
 
 function Page() {
-    return (
-        <div className="page-container">
-            {/* Seção Inicial com Imagem de Fundo e Nome do Grupo */}
-            <section className="hero-section">
-                <div className="hero-content">
-                    <h1>GANESH</h1>
-                    <p>Grupo extracurricular focado em segurança da informação</p>
-                </div>
-            </section>
+  const [group, setGroup] = useState(null); // Estado para armazenar os dados do grupo
+  const [loading, setLoading] = useState(true); // Estado para indicar carregamento
+  const { instituteId, groupId } = useParams(); // Obtém o ID do instituto e do grupo da URL
+  const navigate = useNavigate();
 
-            {/* Seção Sobre o Grupo */}
-            <section className="about-section">
-                <div className="about-content">
-                    <h2>Sobre o Ganesh</h2>
-                    <p>
-                        O Ganesh é um grupo extracurricular da Universidade de São Paulo (USP), baseado em São Carlos. Temos
-                        como nossa missão adquirir e divulgar conhecimentos na área de segurança da informação para estudantes de
-                        graduação e para a comunidade geral.
-                    </p>
-                    <button className="btn saiba-mais-btn">SAIBA MAIS</button>
-                </div>
-            </section>
+  const fetchInstitutes = useCallback(async () => {
+    try {
+      const response = await fetch("/institutes_data.json"); 
+      const data = await response.json();
 
-            {/* Seção Frentes de Estudo */}
-            <section className="study-fronts">
-                <div className="study-card">
-                    <img src="imagem-do-ctf.jpg" alt="Frente de Estudo" />
-                    <div className="study-text">
-                        <h3>Frentes de Estudo</h3>
-                        <p>
-                            Nos organizamos em 5 frentes de estudo, sendo elas: Criptografia, Engenharia Reversa, Redes, Hardware
-                            Hacking e Segurança Web. Cada uma delas desenvolve materiais tanto independentemente como em conjunto,
-                            interfacendo as diferentes áreas.
-                        </p>
-                        <button className="btn ver-frentes-btn">VER FRENTES</button>
-                    </div>
-                </div>
-            </section>
+      // Procurar o instituto pelo ID
+      const institute = data.institutes.find(
+        (institute) => institute.id.toString() === instituteId
+      );
 
-            {/* Seção Outras Atividades */}
-            <section className="other-activities">
-                <div className="activities-card">
-                    <h3>Outras Atividades</h3>
-                    <p>
-                        O grupo constantemente estuda e desenvolve projetos e materiais referentes à área de Segurança da
-                        Informação. Um dos nossos objetivos é desenvolver projetos e atividades que interagem com o público
-                        externo, como o nosso canal do YouTube, o processo anual de ingressos e participações em competições de
-                        área de Segurança da Informação - Capture The Flag (CTF).
-                    </p>
-                    <button className="btn ver-atividades-btn">VER ATIVIDADES</button>
-                </div>
-            </section>
+      if (institute) {
+        // Procurar o grupo dentro do instituto
+        const groupData = institute.groups.find(
+          (group) => group.id.toString() === groupId
+        );
 
-            {/* Rodapé */}
-            <footer className="footer">
-                <p>Conheça mais sobre o nosso grupo acessando nossas Redes Sociais!</p>
-                <button className="btn ver-gitbook-btn">Instagram</button>
-            </footer>
+        if (groupData) {
+          setGroup(groupData); 
+        } else {
+          navigate("/notfound"); 
+        }
+      } else {
+        navigate("/notfound"); 
+      }
+    } catch (error) {
+      console.error("Erro ao buscar os dados dos institutos:", error);
+      navigate("/notfound"); 
+    } finally {
+      setLoading(false); 
+    }
+  }, [instituteId, groupId, navigate]);
+
+  useEffect(() => {
+    setLoading(true); 
+    fetchInstitutes();
+  }, [fetchInstitutes]); 
+
+  if (loading) {
+    return <div>Carregando...</div>; 
+  }
+
+  if (!group) {
+    return <div>Grupo não encontrado.</div>; 
+  }
+
+  return (
+    <div className="page-container">
+    <section className="hero-section">
+      <div className="hero-content">
+        <h1>{group.name}</h1>
+        <img src={group.logo} alt="Frente de Estudo" /> 
+        <p>{group.detailedDescription}</p>
+      </div>
+    </section>
+
+    <section className="about-section">
+      <div className="about-content">
+        <h2>Sobre o {group.name}</h2>
+        <p>{group.description}</p>
+      </div>
+    </section>
+
+
+    <section className="other-activities">
+      <div className="activities-card">
+        <h3>Outras Atividades</h3>
+        <p>{group.otherActivities}</p> 
+      </div>
+    </section>
+
+    <section className="social-media">
+      {group.socialmidias && group.socialmidias.length > 0 && (
+        <div>
+          <h3>Redes Sociais</h3>
+          <ul>
+            <li>
+            <a href={group.site} target="_blank" rel="noopener noreferrer">
+                 site
+                </a>
+            </li>
+            {group.socialmidias.map((social, index) => (
+              <li key={index}>
+                <a href={social.instagram} target="_blank" rel="noopener noreferrer">
+                  Instagram
+                </a>
+                <a href={social.youtube} target="_blank" rel="noopener noreferrer">
+                  YouTube
+                </a>
+              </li>
+            ))}
+          </ul>
         </div>
-    );
+      )}
+    </section>
+  </div>
+  );
 }
 
 export default Page;

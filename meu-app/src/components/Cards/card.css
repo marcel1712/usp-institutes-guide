@@ -1,52 +1,35 @@
 .card {
-    display: flex;
-    align-items: center;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 16px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    max-width: 600px;
-    background-color: #fff;
-  }
-  
-  .image {
-    float: left; 
-    width: 64px; 
-    height: 64px;
-    margin-right: 16px; 
-    border-radius: 50%;
-    object-fit: cover; 
-  }
-  
-  .content {
-    flex: 1; 
-  }
-  
-  .title {
-    font-size: 1.5em;
-    margin: 0 0 8px 0;
-    color: black;
-  }
-  
-  .description {
-    font-size: 1em;
-    color: black;
-    margin-bottom: 12px;
-  }
-  
-  .container {
-    display: flex;
-    gap: 8px;
-  }
-  
-  .container h3 {
-    font-size: 0.9em;
-    padding: 8px 12px;
-    background-color: #1e90ff;
-    color: #fff;
-    border-radius: 16px;
-    text-align: center;
-    white-space: nowrap;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  }
-  
+  display: flex;
+  flex-direction: column; /* Organiza a imagem e o conteúdo na vertical */
+  align-items: center;
+  justify-content: flex-start;
+  width: 300px; /* Ajuste o tamanho do card conforme necessário */
+  margin: 10px; /* Espaçamento entre os cards */
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden; /* Impede que as imagens saiam da área do card */
+}
+
+.logo {
+  width: 100%; /* Faz a imagem ocupar toda a largura do card */
+  height: 200px; /* Defina uma altura fixa para as imagens */
+  object-fit: cover; /* Faz com que a imagem se ajuste ao tamanho do contêiner */
+}
+
+.content {
+  padding: 15px;
+  text-align: center;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.miniDescription {
+  font-size: 14px;
+  color: #555;
+}
