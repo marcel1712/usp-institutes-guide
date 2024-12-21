@@ -1,15 +1,28 @@
-
+import {FaFacebook, FaInstagram, FaLinkedin} from 'react-icons/fa'
 import './Footer.css'
 
 function Footer(){
     return(
-    <footer class="footer">
-        <div class="footer-column">
-            <p>USPCodeLab - São Carlos</p>
-        </div>
-        <div class="footer-column">
-            <p>Made with ♥ by Mãozinha</p>
-        </div>
+    <footer className="footer">
+        <ul className="estilos">
+            <li>
+                <a href="https://www.facebook.com/uspcodelabsanca/" target="_blank" rel="noopener noreferrer">
+                    <FaFacebook/>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/uspcodelabsanca/" target="_blank" rel="noopener noreferrer">
+                    <FaInstagram/>
+                </a>
+            </li>
+            <li>
+                <a href="https://br.linkedin.com/company/uspcodelab-sanca" target="_blank" rel="noopener noreferrer">
+                    <FaLinkedin/>
+                </a>
+            </li>
+        </ul>
+        <p>@2025 - CodeLab</p>
+        <p>Made with ♥ by Mãozinha</p>        
     </footer>
     )
 }

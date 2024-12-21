@@ -2,6 +2,8 @@ import React, { useState, useEffect } from "react";
 import "./Institute.css";
 import Card from "../components/Cards/Card";
 import { useNavigate, useParams } from "react-router-dom";
+import { Col, Container, Row } from 'react-bootstrap';
+
 
 function Sobre() {
   const [object, setObject] = useState(null); // Estado para armazenar o instituto
@@ -51,8 +53,9 @@ function Sobre() {
   };
 
   return (
-    <div>
-      <h1 className="mt-5">{object.name || "Nome do Instituto"} </h1>
+    <Container>
+      <div>
+      <h1 className=" temapadrao mt-5">{object.name || "Nome do Instituto"} </h1>
 
       <div
         id="carouselExampleIndicators"
@@ -133,16 +136,16 @@ function Sobre() {
         </button>
       </div>
 
-      <h2 className="sobre">Sobre o instituto</h2>
-      <p>
-        Os cursos do instituto são:
+      <h2 className="temapadrao mt-5">Sobre o Instituto</h2>
+      <p className="cursos">
+        <b>Os cursos do instituto são:</b>
         <ul>
           {object.courses?.map((course, index) => (
             <li key={index}>{course}</li>
           ))}
         </ul>
       </p>
-      <h2 className="mapa">Mapa</h2>
+      <h2 className="temapadrao">Mapa</h2>
       <iframe
         src={object.mapUrl || ""}
         width="500"
@@ -153,7 +156,7 @@ function Sobre() {
         title="Mapa"
       ></iframe>
 
-      <h2 className="grupos">Grupos de extensão</h2>
+      <h2 className="temapadrao">Grupos de extensão</h2>
       <div
         className="card-container"
         style={{
@@ -185,6 +188,8 @@ function Sobre() {
         ))}
       </div>
     </div>
+  </Container>
+  
   );
 }
 

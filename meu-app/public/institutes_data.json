@@ -32,7 +32,7 @@
             {
                 "id":1,
                 "name": "GANESH",
-                "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kNxCzmKdVsP-YU2agg348XdvvHt9XzgVSQujyKx4IELPQ=s900-c-k-c0x00ffffff-no-rj",
+                "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kNxCzmKdVsP-YU2agg348XdvvHt9XzgVSQujyKx4IELPQ=s200-c-k-c0x00ffffff-no-rj",
                 "miniDescription": "Grupo extracurricular focado em segurança da informação",
                 "detailedDescription":"Temos como nossa missão adquirir e divulgar conhecimentos na área de segurança da informação para estudantes de graduação e para a comunidade geral.",
                 "otherActivities": "O grupo constantemente estuda e desenvolve projetos e materiais referentes à área de Segurança da Informação. Um dos nossos objetivos é desenvolver projetos e atividades que interagem com o público externo, como o nosso canal do YouTube, o processo anual de ingressos e participações em competições de área de Segurança da Informação - Capture The Flag (CTF)",
@@ -49,7 +49,7 @@
             {
               "id":2,
                 "name": "Campanha USP do Agasalho",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbK0vs5elmAFnWu1DzNJoAaJC_heDXL1DFQA&s",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbK0vs5elmAFnWu1DzNJoAaJC_heDXL1DFQA&s200",
                 "miniDescription": "Grupo extracurricular focado em arrecadar e destinar roupas para entidades sociais da cidade",
                 "detailedDescription":"As atividade do projeto consistem em recolher roupas por meio de doações e destiná-las, de forma adequada, para as entidades. Além disso, realizar visitas e intervenções nas entidades auxiliadas. O público que o projeto ajuda são as pessoas em situação de vulnerabilidade social que estejam precisando de doações de roupas, sendo atendida ou não por uma entidade assistencialista.",
                 "otherActivities": "Anualmente realizamos o nosso maior evento, o Saída às Ruas, em que os voluntários percorrem diversos bairros da cidade arrecadando doações de porta em porta.",
@@ -64,7 +64,7 @@
             {
               "id":3,
                 "name": "Corvus AI",
-                "logo": "https://ugc.production.linktr.ee/190663af-0371-4101-9225-f9f7b528790c_Camada-1.png?io=true&size=avatar-v3_0",
+                "logo": "https://ugc.production.linktr.ee/190663af-0371-4101-9225-f9f7b528790c_Camada-1.png?io=true&size=avatar-v3_0&width=200&height=200",
                 "miniDescription": "Grupo extracurricular focado em pesquisa e desenvolvimento cientifico voltada para IA ",
                 "detailedDescription":"Cursos de introdução à inteligência artificial e teoria da computação e cursos introdução aos laboratórios de pesquisa; Palestras e apresentações de membros de IC, pós-graduandos e profissionais da área; Produção de pesquisa e aplicações relacionadas à inteligência artificial.",
                 "otherActivities": "",
@@ -79,7 +79,7 @@
             {
               "id":4,
                 "name": "DATA",
-                "logo": "https://yt3.googleusercontent.com/QOrTmQczfI3AgWRJncrvlAr0X8BCtD27lAdpaXeBhcOrSPrq1G5eGnQpFdUwT5Q7NhbzL1bK2A=s900-c-k-c0x00ffffff-no-rj",
+                "logo": "https://yt3.googleusercontent.com/QOrTmQczfI3AgWRJncrvlAr0X8BCtD27lAdpaXeBhcOrSPrq1G5eGnQpFdUwT5Q7NhbzL1bK2A=s200-c-k-c0x00ffffff-no-rj",
                 "miniDescription": "Grupo extracurricular focado em ciência de dados e aprendizado de máquina",
                 "detailedDescription":"Grupo de Extensão do  ICMC-USP  focado em Ciência de Dados e Aprendizado de Máquina. Por meio de aulas, eventos, grupos de estudo e palestras, a entidade tem a missão de unir a indústria, o mundo acadêmico e personas interessadas, de forma que todos possam criar conexões importantes para sua vida e carreira enquanto aprendem.",
                 "otherActivities": "O Data busca integrar estudantes, acadêmicos e profissionais do setor, promovendo a troca de conhecimento e o desenvolvimento de habilidades técnicas. Através de aulas, eventos, grupos de estudo e palestras, o grupo facilita o acesso a tecnologias de ponta e práticas atuais, preparando seus membros para os desafios do mercado de trabalho.",
@@ -124,7 +124,7 @@
             {
               "id":7,
                 "name": "GEMA",
-                "logo": "http://gema.icmc.usp.br/static/media/gema_logo.3b423f42.png",
+                "logo": "https://scontent.fqps5-1.fna.fbcdn.net/v/t39.30808-6/308618904_420779336868865_5760985335105042595_n.png?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ae88xWrDJrEQ7kNvgG6TUk_&_nc_oc=AdjTHDcvNsjqcVKukk9qbYvEMmK_MfWgD-W81uyPhIsAyIucoXmcnINP8lwBXU6rM-w&_nc_zt=23&_nc_ht=scontent.fqps5-1.fna&_nc_gid=AcMOcGvY_K2Ip9fXjeRaQR5&oh=00_AYA-_SWUjqVAn5_hml4ybCI8AK-fOCZpuimdK_rULnvLig&oe=676CF5F7",
                 "miniDescription": "Grupo de extensão focado em programação competitiva e preparação para maratonas de programação.",
                 "detailedDescription":"O GEMA (Grupo de Estudos para a Maratona de Programação) é um grupo de extensão do ICMC-USP que prepara estudantes para competições de programação competitiva, como a Maratona de Programação da SBC e o ICPC. Com encontros semanais, o GEMA promove o estudo de algoritmos, estruturas de dados e resolução de problemas em equipe, treinando para desafios de alto nível reconhecidos nacional e internacionalmente.",
                 "otherActivities": "O GEMA realiza reuniões semanais para discutir problemas avançados e tópicos relacionados a maratonas de programação, além de oferecer aulas introdutórias no início do ano para iniciantes. O grupo também organiza seletivas internas e treina equipes para competições como a OBI e o ICPC, destacando-se na formação de programadores competitivos e promovendo a interação com a comunidade de programação.",
@@ -199,7 +199,7 @@
             {
               "id":12,
                 "name": "FoG (Fellowship of The Game)",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4dv4eANRh2vGJP8dGOQ5yRwa8HExrqGGOEw&s",
+                "logo": "https://www.fog.icmc.usp.br/static/img/brasao.93a9aab.png",
                 "miniDescription": "Grupo de extensão focado em desenvolvimento de jogos e disseminação de conhecimento através de cursos e eventos",
                 "detailedDescription":"O Fellowship of The Game (FoG) é um grupo de extensão vinculado ao ICMC-USP dedicado ao desenvolvimento de jogos e à difusão de conhecimentos relacionados à área. Seus projetos envolvem prototipação de jogos, unindo programação, arte e música para criar experiências únicas. O grupo também promove minicursos gratuitos e oficializados pela USP, acessíveis a toda a comunidade, além de eventos para incentivar a interação e o aprendizado sobre game development.",
                 "otherActivities": "O FoG realiza eventos como Playtests, para que a comunidade experimente seus jogos; Game Jams, desafiando participantes a criar jogos em maratonas criativas; e a USP Game Link, que combina uma Mostra de Jogos do ICMC com palestras e conteúdos voltados ao desenvolvimento de games. O grupo também publica seus jogos gratuitamente para a comunidade",
@@ -428,7 +428,7 @@
               {
                 "id":10,
                 "name": "Grupo organizador do SEnC - Semana da Engenharia de Computação",
-                "logo": "https://senc.icmc.usp.br/img/logo_senc.png",
+                "logo": "https://scontent.fqps5-1.fna.fbcdn.net/v/t39.30808-1/326726310_547946494021798_753220138221760302_n.png?stp=dst-png_s200x200&_nc_cat=104&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=NJ40lHGfTMAQ7kNvgHjXqlu&_nc_oc=AdgtWFxl3Gn4LbeShpZyi5bw5-TzpGoCgLLd7tyZ1j6qrnUXUpT3wD7mUpmVQwKnTDo&_nc_zt=24&_nc_ht=scontent.fqps5-1.fna&_nc_gid=AieeBy2dCX1HUNYmJaDz2bf&oh=00_AYCOTuI0X0dYYWQCRGQoclG6sAlogmTfb5MHZhiniSRCSg&oe=676CF890",
                 "miniDescription": "Grupo de extensão focado em organizar a Semana da Engenharia de Computação.",
                 "detailedDescription": "A Semana da Engenharia de Computação (SEnC) é um evento anual organizado pelos alunos de engenharia de computação da USP São Carlos. Criada em 2016, tem como objetivo fortalecer a identidade profissional do engenheiro de computação, tanto no mercado quanto no curso.",
                 "otherActivities": "Promove palestras, workshops e outras atividades que destacam a importância da engenharia de computação, incentivando a troca de conhecimento entre alunos e profissionais da área.",
