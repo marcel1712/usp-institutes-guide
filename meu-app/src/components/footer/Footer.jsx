@@ -22,7 +22,6 @@ function Footer(){
             </li>
         </ul>
         <p>@2025 - CodeLab</p>
-        <p>Made with ♥ by Mãozinha</p>        
     </footer>
     )
 }

@@ -60,7 +60,7 @@ function Sobre() {
       <div
         id="carouselExampleIndicators"
         className="carousel slide mx-auto p-2"
-        style={{ maxWidth: "800px", height: "400px" }}
+        style={{ maxWidth: "100%", height: "400px" }}
       >
         <div className="carousel-indicators">
           <button
@@ -145,10 +145,10 @@ function Sobre() {
           ))}
         </ul>
       </p>
-      <h2 className="temapadrao">Mapa</h2>
+      <h2 className="temapadrao mb-3">Mapa</h2>
       <iframe
-        src={object.mapUrl || ""}
-        width="500"
+        src={object.map || ""}
+        width="500" 
         height="400"
         style={{ border: 0 }}
         loading="lazy"
@@ -156,7 +156,7 @@ function Sobre() {
         title="Mapa"
       ></iframe>
 
-      <h2 className="temapadrao">Grupos de extensão</h2>
+      <h2 className="temapadrao mt-3">Grupos de extensão</h2>
       <div
         className="card-container"
         style={{

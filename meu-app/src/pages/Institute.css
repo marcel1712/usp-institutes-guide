@@ -37,19 +37,9 @@ p{
   color: white;
 }
 
-/* .sobre{
-  margin-left: 30px;
+.card-container{
+  width: 100%;
 }
-
-.mapa{
-  margin-left: 30px;
-  margin-top: 30px;
-}
-
-.grupos{
-  margin-left: 30px;
-  margin-top: 30px;
-} */
 
 iframe {
   display: block;
@@ -57,7 +47,8 @@ iframe {
 }
 
 body{
-  background-color: #87e2de;
+  background-color: #c9dfde;
+  font-family: 'Raleway', sans-serif;
 }
 
 .temapadrao{
@@ -65,8 +56,8 @@ body{
   color:whitesmoke;
   font-weight: bold;
   padding: 7px 20px;
-  border-radius: 20px;
   font-size: 30px;
+  text-align: center;
 }
 
 .cursos{

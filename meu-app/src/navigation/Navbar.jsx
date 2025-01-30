@@ -24,9 +24,9 @@ function Navbar_result() {
 
   return (
     <div>
-      <Navbar bg="light" data-bs-theme="light">
+      <Navbar className="navv fixed-top " bg="light" data-bs-theme="light">
         <Container>
-          <Navbar.Brand href="inicio" className="nomesite fw-bold">Extras USP</Navbar.Brand>
+          <Navbar.Brand  className="nomesite fw-bold">Extras USP</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="posicao-navbar ms-auto text-center d-flex justify-content-center align-items-center">
